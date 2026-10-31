@@ -1,6 +1,6 @@
 # Delivery Card Tests — Selenide + Allure (+ Report Portal)
 
-[![Java CI with Gradle](https://github.com/Ilich8603/javaAQA-patterns/actions/workflows/gradle.yml/badge.svg)](https://github.com/Ilich8603/javaAQA-patterns/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/Ilich8603/javaAQA-reporting_selenide-allure/actions/workflows/gradle.yml/badge.svg)](https://github.com/Ilich8603/javaAQA-reporting_selenide-allure/actions/workflows/gradle.yml)
 
 
 
